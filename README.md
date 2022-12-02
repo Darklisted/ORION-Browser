@@ -10,6 +10,6 @@ ORION Browser a privacy focused browser
 - Is it a virus? No ORION browser is not a virus it has not trackers and your information is not stored not even localy
 - What can it protect me against? ORION at its highest level of protection it can stop websites from fingerprinting you and tracking your activity. Note that the content may be visible to your ISP but if you share an IP your browser will not be able to be identified (Tho it is recomended to use a VPN)
 # How to use + Extra info
-<img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_startup.png" alt="Start Menu" width="800" height="400" border="10" />
+<img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_startup.png" alt="Start Menu" width="1000" height="400" border="10" />
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_main_menu.png" alt="Main Menu" width="240" height="180" border="10" />
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_settings_menu.png" alt="Settings" width="240" height="180" border="10" />
