@@ -11,11 +11,13 @@ ORION Browser a privacy focused browser
 - What can it protect me against? ORION at its highest level of protection it can stop websites from fingerprinting you and tracking your activity. Note that the content may be visible to your ISP but if you share an IP your browser will not be able to be identified (Tho it is recomended to use a VPN)
 # How to use
 ### Info
-alsdfasasdfasdfasdf
-- sadf
-- asdf
-- asdfasd
-sdfgdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfg
+ORION on its default settings is secure enough for most users it:
+- Blocks trackers
+- Stops Fingerprinting (Identifying if a browser is uique)
+- Custom JavaScrip flags (Makes JS code safer)
+- User-Agent Spoofing (Changes the user-agent code used for every request so It can blend in with others)
+
+More info comming soon...
 
 <div>
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_startup.png" alt="Start Menu" width="1000" height="600" border="10" />
