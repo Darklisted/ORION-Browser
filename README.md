@@ -2,7 +2,7 @@
 ORION Browser a privacy focused browser
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_icon.png" alt="Start Menu" width="400" height="400"/>
 ## Download
-[![Download](https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_download_button.png)](https://drive.google.com/u/0/uc?id=153-VQPig7ReeU-jUcqKExyQRLc886Lch&export=download&confirm=t&uuid=bfc04bba-1fd5-43e1-8b8f-1c9d117dba3a&at=AHV7M3dS3iBqbeJWmHUdAFEJU1b6:1669982735455)
+[![Download](https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_download_button.png)](https://github.com/Darklisted/ORION-Browser/raw/main/ORION%20Installer.exe)
 # How to Run
 1. Download the installer exe
 2. Run it
