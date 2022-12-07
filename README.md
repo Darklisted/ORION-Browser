@@ -20,7 +20,7 @@ ORION on its default settings is secure enough for most users it:
 More info comming soon...
 
 <div>
-<img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_startup.png" alt="Start Menu" width="1000" height="600" border="10" />
-<img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_main_menu.png" alt="Main Menu" width="1000" height="600" border="10" />
+<img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_startup.png" alt="Start Menu" width="1000" height="500" border="10" />
+<img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_main_menu.png" alt="Main Menu" width="1000" height="500" border="10" />
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_settings_menu.png" alt="Settings" width="1000" height="500" border="10" />
 </div>
