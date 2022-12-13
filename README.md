@@ -4,7 +4,7 @@ ORION Browser is a privacy-focused browser
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_icon.png" alt="Start Menu" width="400" height="400"/>
 # Certified
 ### Passed the WHOER test with 100% anonymity (Using the vpn, User-Agent Spoofer, 3 level Security Mode) as Mac using Safari in Germany
-### Passed the AAT (Advanced Anonymity Test) With 100% score in GGeolocation, Fingerprinting, Browser identification, Evercookie test, DNS leak, AxtiveX, JavaScript identification and more
+### Passed the AAT (Advanced Anonymity Test) With 100% score in Geolocation, Fingerprinting, Browser identification, Evercookie test, DNS leak, AxtiveX, JavaScript identification and more
 ## Download
 [![Download](https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_download_button.png)](https://github.com/Darklisted/ORION-Browser/raw/main/ORION%20Installer.exe)
 # How to Run
