@@ -1,4 +1,5 @@
 # ORION-Browser
+## The most secure surface-web Browser bundle
 ORION Browser is a privacy-focused browser
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_icon.png" alt="Start Menu" width="400" height="400"/>
 ## Download
