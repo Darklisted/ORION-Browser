@@ -36,3 +36,5 @@ More info coming soon...
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_main_menu.png" alt="Main Menu" width="1000" height="500" border="10" />
 <img src="https://raw.githubusercontent.com/Darklisted/ORION-Browser/main/Images/orion_settings_menu.png" alt="Settings" width="1000" height="500" border="10" />
 </div>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
