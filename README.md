@@ -17,10 +17,18 @@ ORION Browser is a privacy-focused browser
 - Is it safe? Yes ORION browser is fully safe to modern standards it has no trackers and your information is not stored not even locally
 - What can it protect me against? ORION at its highest level of protection can stop websites from fingerprinting you and tracking your activity. Note that the content may be visible to your ISP but if you share an IP your browser will not be able to be identified (Using a VPN Like the integrated one with protect you from that too)
 # Changelog
+## Version 1.3 NEW
++ User-Agent Spoofer
++ Save Session to file
++ Reset Session
+- Fixed bug where cache was not deleted
+- Fixed bug where a crash whould occur when closing if pop had been opend before
++ Secrity updates
+
 ## Version 1.2
-- New installer
++ New installer
 - Fixed bugs
-- Updete checker in Settings
++ Updete checker in Settings
 # How to use
 ### Info
 ORION on its default settings is secure enough for most users it:
